@@ -1,4 +1,4 @@
-
+-----------------------------|----------------------------------------------|---------------------------------------------
 Criterion                    | Tool A: diagrams.net                         | Tool B: PlantUML Web
 
 Learning curve               | (e.g., very easy drag-drop)                  | (e.g., needs UML syntax, fast after basics)
@@ -12,3 +12,4 @@ Collaboration                | Works with Google Drive/OneDrive             | Te
 Export formats               | PNG, SVG, PDF                                | PNG (plus regenerate from source)
 
 Cost                         | Free                                         | Free
+-----------------------------|----------------------------------------------|-----------------------------------------------
