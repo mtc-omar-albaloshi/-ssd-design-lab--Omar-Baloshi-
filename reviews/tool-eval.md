@@ -1,15 +1,8 @@
------------------------------|----------------------------------------------|---------------------------------------------
-Criterion                    | Tool A: diagrams.net                         | Tool B: PlantUML Web
-
-Learning curve               | (e.g., very easy drag-drop)                  | (e.g., needs UML syntax, fast after basics)
-
-Version control friendliness | .drawio can be diff’d as XML; PNG for review | .puml is text-diff friendly; PNG for review
-
-Validation support           | Manual visual checks only                    | Syntax validation, basic lint via editor
-
-Collaboration                | Works with Google Drive/OneDrive             | Text is PR-friendly; code reviews easy
-
-Export formats               | PNG, SVG, PDF                                | PNG (plus regenerate from source)
-
-Cost                         | Free                                         | Free
------------------------------|----------------------------------------------|-----------------------------------------------
+| Criterion | diagrams.net (draw.io) | PlantUML Web |
+|---------|------------------------|--------------|
+| Learning curve | Very easy, drag-and-drop interface | Requires learning UML syntax, easier after basics |
+| Version control friendliness | .drawio is XML (can diff), PNG good for review | .puml text is very diff-friendly |
+| Validation support | Manual visual checking only | Syntax validation in editor |
+| Collaboration | Easy sharing via Drive / OneDrive | PR-friendly, works well with code reviews |
+| Export formats | PNG, SVG, PDF | PNG (generated from source) |
+| Cost | Free | Free |
